@@ -1,0 +1,4 @@
+#Sat Feb 18 21:21:47 BRST 2017
+base.0=C\:\\Users\\Eric\\AndroidStudioProjects\\Lab3b_PermissionsLab\\app\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Eric\\AndroidStudioProjects\\Lab3b_PermissionsLab\\app\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main\\classes.dex
